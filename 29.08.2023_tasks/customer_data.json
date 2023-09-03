@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ilze",
+        "age": 30,
+        "purchases": 4
+    },
+    {
+        "name": "Karlis",
+        "age": 25,
+        "purchases": 2
+    },
+    {
+        "name": "Zane",
+        "age": 32,
+        "purchases": 9
+    },
+    {
+        "name": "Deivs",
+        "age": 24,
+        "purchases": 10
+    },
+    {
+        "name": "Atis",
+        "age": 28,
+        "purchases": 7
+    },
+    {
+        "name": "Laura",
+        "age": 15,
+        "purchases": 2
+    }
+]
